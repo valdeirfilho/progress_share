@@ -5,5 +5,6 @@ Aqui irei compartilhar o que achar mais interessante, e coisas novas que irei ap
 
 ## Dia 1 
 ### Relembrando Git 
+Guia de consultas da sintaxe básica de MD.
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
